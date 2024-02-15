@@ -13,6 +13,7 @@ Usage:
 Clone the repository:
 
 git clone https://github.com/v3nusss/Responsive-LandPage
+
 Open the index.html file in your browser to view the landing page.
 
 Customize the content and styles according to your needs by modifying the HTML and CSS files.
