@@ -11,6 +11,7 @@ Built with HTML and CSS only
 Usage:
 
 Clone the repository:
+
 git clone https://github.com/v3nusss/Responsive-LandPage
 Open the index.html file in your browser to view the landing page.
 
