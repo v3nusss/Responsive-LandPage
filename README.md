@@ -12,7 +12,7 @@ Usage:
 
 Clone the repository:
 
-git clone https://github.com/v3nusss/Responsive-LandPage
+git clone https://github.com/v3nusss/responsive-landpage
 
 Open the index.html file in your browser to view the landing page.
 
